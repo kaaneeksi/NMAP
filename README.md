@@ -36,7 +36,7 @@ Kısaca sözlük bilgisi vermek gerekirse **Nmap** açık kaynak kodlu TCP/IP si
 
 ![tek-hedef](https://github.com/kaaneeksi/NMAP/blob/main/G%C3%B6rseller/NMAP-exclude.png)
 
-**Fakat parametresiz nmap taraması yapmak nmap e hakaret sayılır.**
+**Fakat parametresiz nmap taraması yapmak nmap'e hakaret sayılır. Tarma çeşitlerini dosyalar halinde çalışmama ekleyeceğim**
 
 
 
